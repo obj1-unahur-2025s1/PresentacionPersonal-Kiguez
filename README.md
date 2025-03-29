@@ -2,10 +2,9 @@
 
 # Matias Kiguez
 
-Mi nombre es Matias Kiguez, tengo 23 años, vino en Pontevedra (partido de Merlo) y estoy cursando mi tercer cuatrimestre en la carrera de "tecnicatura en programacion".
-Realice los estudios secundarios en una escuela tecnica, en la cual me recibi como "tecnico informatico personal y profesional" debido a esto, llevo ya algunos años programando y fue ahi donde me di cuenta de que la rama que mas me gusta de la informatica es la programacion, por eso estoy en esta carrera.
-Tengo muchas expectativas con esta materia debido a que siempre escuche diversas opiniones sobre la programacion orientada a objetos y si bien en la tecnica tuve algunos acercamientos, nunca tuve la oportunidad de verlo en profundidad de manera mas profesional.
-Esta es la primera vez que uso git, por lo tanto a continuacion voy a dejar una foto mia, no solo para presentarme, tambien para practicar con el codigo y subir archivos. 
+Mi nombre es Matías Kiguez, tengo 23 años, vivo en Pontevedra (partido de Merlo) y estoy cursando mi tercer cuatrimestre en la carrera de "tecnicatura en programacion". Realice los estudios secundarios en una escuela técnica, en la cual me recibí como "técnico informático personal y profesional" debido a esto, llevo ya algunos años programando y fue ahí donde me di cuenta de que la rama que más me gusta de la informática es la programación, por eso estoy en esta carrera. 
+Tengo muchas expectativas con esta materia debido a que siempre escuche diversas opiniones sobre la programación orientada a objetos y si bien en la técnica tuve algunos acercamientos, nunca tuve la oportunidad de verlo en profundidad de manera mas profesional.
+Esta es la primera vez que uso Git, por lo tanto a continuación voy a dejar una foto mía, no solo para presentarme, también para practicar con el código y subir archivos. 
 
 ![Mi_Foto](Mi_Foto.jpeg)
 
